@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "SalesAutopilot - Save UTM Tags to LocalStorage",
+  "categories": ["CONVERSIONS", "EMAIL_MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
